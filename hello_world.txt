@@ -1,0 +1,2 @@
+Testing out Git
+Looking at staging and committing
